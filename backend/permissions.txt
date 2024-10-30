@@ -1,0 +1,7 @@
+root|/home/dennis/calificacion/U2024/9noSemestre|DIR|471A
+root|/home/dennis/calificacion/nombre.txt|File|471A
+root|/home/dennis/calificacion/cambiar_nombre.txt|File|
+root|/home/dennis/u|DIR|471A
+root|/home/dennis/calificacion/borrar.txt|DIR|471A
+root|/home/dennis/uu|DIR|471A
+root|/home/dennis/u/jk|DIR|471A

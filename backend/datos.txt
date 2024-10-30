@@ -1,0 +1,5 @@
+DISCO|rpueba|rpueba
+DISCO|Disco1.mia|/home/dennis/Disco1.mia
+PARTICION|Part1|/home/dennis/Disco1.mia|471A
+PARTICION|Part2|/home/dennis/Disco1.mia|472A
+PARTICION|Part4|/home/dennis/Disco1.mia|N/A
