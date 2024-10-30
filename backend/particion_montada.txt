@@ -1,1 +1,1 @@
-Path: /home/dennis/Disco1.mia, Partition: 1, MountOrder: 0
+
